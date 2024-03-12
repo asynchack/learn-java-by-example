@@ -9,9 +9,7 @@ package org.example.scopes;
 
 public class HelloMessageGenerator {
     public String message;
-    public HelloMessageGenerator(String message) {
-        this.message = message;
-    }
+
     public String getMessage() {
         return message;
     }

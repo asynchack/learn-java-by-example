@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>../spring-core-2</module>
+        <module>../spring-boot-modules</module>
     </modules>
     <parent>
         <groupId>org.example</groupId>
